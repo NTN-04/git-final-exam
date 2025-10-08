@@ -1,4 +1,4 @@
-Họ và tên: Nguyễn Trọng Nghĩa 
+Hello, this is Nguyễn Trọng Nghĩa 
 Mã số sinh viên: DH22Tin06 - 220361
 Chuyên ngành : Công nghệ thông tin
 Kỹ năng: git cơ bản, lập trình Javascript, thiết kế đồ họa,...
