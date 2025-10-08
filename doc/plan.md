@@ -11,3 +11,7 @@ Ngày kết thúc: 2025-10-14
 6. Ngày 6: Async/await + fetch, viết bài tập nhỏ — 2 giờ
 7. Ngày 7: Tổng hợp, kiểm tra kiến thức, chỉnh sửa note và chuẩn bị báo cáo — 2 giờ
    Ghi chú: Ghi chép mỗi buổi, push thay đổi lên remote để làm bằng chứng.
+
+- Ngày 8: Ôn lại toàn bộ nội dung tuần, sửa notes.
+- Ngày 9: Thực hành thêm các bài tập Git nâng cao.
+- Ngày 10: Kiểm tra mini và hoàn thiện tài liệu học tập.
