@@ -1,0 +1,6 @@
+
+Tính năng: Thêm chế độ "Dark Mode" cho giao diện web.
+Mô tả ngắn: Người dùng có thể chuyển đổi giữa Light/Dark theme.
+Yêu cầu: Lưu lựa chọn người dùng vào localStorage.
+Lợi ích: Cải thiện trải nghiệm ban đêm, giảm mỏi mắt.
+Ghi chú triển khai: Thêm CSS variables, toggle button, và script để áp dụng theme.
