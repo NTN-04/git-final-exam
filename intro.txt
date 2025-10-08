@@ -4,3 +4,10 @@ Chuyên ngành : Công nghệ thông tin
 Kỹ năng: git cơ bản, lập trình Javascript, thiết kế đồ họa,...
 là sinh viên trường Nam cần Thơ
 Sở thích: Chơi game, nghe nhạc, du lịch
+
+Kế hoạch học tập:
+- Lên lịch học hàng ngày: 1-2 giờ ôn Git và JavaScript.
+- Học Git nâng cao: branch, merge, rebase, pull request .
+- Học JavaScript: ES6, async/await, DOM, và thực hành với dự án nhỏ .
+- Thực hành dự án nhóm: áp dụng Git workflow và review code .
+- Ôn tập và kiểm tra kiến thức mỗi cuối tuần, ghi chú và điều chỉnh kế hoạch.
