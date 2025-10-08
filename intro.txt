@@ -1,8 +1,7 @@
-Họ và tên: Nguyễn Trọng Nghĩa 
-Mã số sinh viên: DH22Tin06 - 220361
-Chuyên ngành : Công nghệ thông tin
+Xin chào tôi tên là Nguyễn Trọng Nghĩa 
+Mã số sinh viên - 220361 thuộc lớp DH22Tin06
+Chuyên ngành : Công nghệ thông tin, là sinh viên trường Nam cần Thơ
 Kỹ năng: git cơ bản, lập trình Javascript, thiết kế đồ họa,...
-là sinh viên trường Nam cần Thơ
 Sở thích: Chơi game, nghe nhạc, du lịch
 
 Kế hoạch học tập:
