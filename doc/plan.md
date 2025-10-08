@@ -15,3 +15,7 @@ Ngày kết thúc: 2025-10-14
 - Ngày 8: Ôn lại toàn bộ nội dung tuần, sửa notes.
 - Ngày 9: Thực hành thêm các bài tập Git nâng cao.
 - Ngày 10: Kiểm tra mini và hoàn thiện tài liệu học tập.
+
+  - Ghi chú: Chia sẻ kết quả với nhóm vào cuối tuần.
+
+- Hành động: Cập nhật tiến độ trên repo và issues.
