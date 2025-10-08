@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản hiệu quả.
 - Git hỗ trợ làm việc nhóm qua branch và merge.
 - Sử dụng thường xuyên giúp giảm lỗi khi phát triển.
-- Việc ghi commit rõ ràng giúp dễ theo dõi lịch sử.
-- Thực hành thường xuyên làm tăng tốc độ và độ chính xác.
